@@ -16,8 +16,9 @@ Este espacio forma parte de **Kiwi Studio**, un proyecto personal con el que bus
 - 🛠️ Publicar código abierto y gratuito  
 - 🎮 Crear videojuegos y aplicaciones desde cero  
 - 🚀 Construir un portafolio profesional transparente y verificable  
+- 🧩 Crear soluciones practicas a problemas y necesidades reales  
 
-Todos los proyectos iniciales serán **open-source**, bien documentados y pensados para mostrar tanto el resultado final como el proceso de desarrollo.
+Todos los proyectos serán **open-source**, bien documentados y pensados para mostrar tanto el resultado final como el proceso de desarrollo.
 
 🌐 Web oficial: **[kiwiprojectstudio.com](https://kiwiprojectstudio.com)**
 
@@ -38,18 +39,19 @@ Cada repositorio incluye:
 - Tecnologías utilizadas
 - Objetivo del desarrollo
 - Estado actual y próximos pasos
+- Una breve guía o manual de uso
 
 ---
 
 ## 🛠️ Tecnologías y áreas de interés
 
-- **Lenguajes:** JavaScript, TypeScript, C#, Java  
-- **Web:** HTML, CSS, Frameworks modernos  
-- **Mobile:** Android  
-- **Videojuegos:** Motores de juego, lógica, gameplay, herramientas  
-- **Otros:** Git, control de versiones, arquitectura de proyectos
+- **Lenguajes:** JavaScript, TypeScript, C#, Java, Kotlin, Php, Python, C++... 
+- **Web:** HTML, CSS, APIs, Frameworks modernos  
+- **Mobile:** Android, IOS, KMP  
+- **Videojuegos:** Motores de juego, lógica, gameplay, herramientas, mecanicas  
+- **Otros:** Git, control de versiones, arquitectura de proyectos, bases de datos SQL
 
-> Me interesa especialmente el **desarrollo de videojuegos** desde una perspectiva técnica y de producto.
+> Me interesa especialmente el **desarrollo de videojuegos** desde una perspectiva técnica y de desarrollo.
 
 ---
 
